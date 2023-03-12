@@ -121,7 +121,7 @@ h2 {
 }
 
 
-/* @media (max-width: 900px) {
+@media (max-width: 900px) {
     .bayan-block {
         max-width: 80%;
     }
@@ -188,5 +188,5 @@ h2 {
     .bayan-block{
         padding: 1rem;
     }
-} */
+}
 
